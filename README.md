@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tailwind-react-boilerplate :snowflake:
 
 [![GitHub license](https://img.shields.io/github/license/toughyear/tailwind-react-boilerplate?style=flat-square)](https://github.com/toughyear/tailwind-react-boilerplate/blob/master/LICENSE) [![Tailwind CSS](https://img.shields.io/badge/tailwind-css-blue?style=flat-square)](https://tailwindcss.com/) [![GitHub stars](https://img.shields.io/github/stars/toughyear/tailwind-react-boilerplate?style=flat-square)](https://github.com/toughyear/tailwind-react-boilerplate/stargazers)
@@ -63,3 +64,7 @@ If you have a question, feel free raise an issue in repo or ask me here: [twitte
 
 Become a contributor in maintaining this boilerplate.
 Although we want to keep this repo as minimal as possible, we are also looking for adding more features and create a more complicated template project integrated with Firebase :fire: and other awesome features. Connect with me here: [twitter](https://twitter.com/RajeevSinghN).
+=======
+# react-shopping-site
+A ReactJS based web-app with advanced navigation system, Using tailwind, Material UI and React-icons.
+>>>>>>> 634edbd51f86716f3ed6a8df49f9a927def3c84e
